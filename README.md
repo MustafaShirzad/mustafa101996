@@ -13,7 +13,8 @@ HTML | CSS | JavaScript | Node.js | Express | MongoDB | Git | GitHub
 ---
 
 ### 📫 Connect With Me
-💼 [LinkedIn](mustafa-shirzad-1177a1251)  
+💼 [LinkedIn](https://www.linkedin.com/in/mustafa-shirzad-1177a1251)
+
 📧 mustafa.shirzad09@gmail.com  
 
 ---
