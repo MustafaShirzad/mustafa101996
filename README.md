@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Mustafa Shirzad
-- 👀 I’m interested in ...programing
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I'm Mustafa Shirzad
+💻 Frontend & Backend Developer  
+🌍 Based in Switzerland  
+🚀 Building my own E-Commerce Website  
+📚 Learning JavaScript, Node.js, and React  
+
+### 🛠 Tech Stack
+HTML | CSS | JavaScript | Node.js | Express | MongoDB | Git | GitHub
 
 <!---
 mustafa101996/mustafa101996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
