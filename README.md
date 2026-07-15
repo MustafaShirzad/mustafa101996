@@ -1,15 +1,25 @@
 # 👋 Hi, I'm Mustafa Shirzad
+
 💻 Frontend & Backend Developer  
 🌍 Based in Switzerland  
 🚀 Building my own E-Commerce Website  
 📚 Learning JavaScript, Node.js, and React  
 
+---
+
 ### 🛠 Tech Stack
-HTML | CSS | JavaScript | Node.js | Express | MongoDB | Git | GitHub
+HTML | CSS | JavaScript | Node.js | Express | MongoDB | Git | GitHub  
+
+---
 
 ### 📫 Connect With Me
-💼 [LinkedIn](https://linkedin.com/in/mustafashirzad)
-- 📧 mustafa.shirzad09@gmail.com
+💼 [LinkedIn](https://linkedin.com/in/Mustafa Shirzad)  
+📧 mustafa.shirzad09@gmail.com  
+
+---
+
+![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MustafaShirzad&show_icons=true&theme=tokyonight)
+
 
 
 <!---
